@@ -2,34 +2,47 @@
 
 ## Menu de la semaine
 
-### vendredi
+### Vendredi
 
 ### Samedi
 
-- samedi matin
-- samedi soir
+- matin
+- soir
 
+### Dimanche
 
-- dimanche matin
-- dimanche déjeuner
-- dimanche dîner
+- matin
+- déjeuner
+- dîner
 
+### Lundi
 
+- matin
+- goûter
+- dîner
 
-Spécialités:
+### Mardi
 
+- matin
+- goûter
+- dîner
 
+### Mercredi
 
+- matin
+- goûter
+- dîner
 
-BAO d’ouighour du Xinjiang
-Risoto brocolis - 
-Lasagnes à la crème fraiche parmesant emmental - 
-Pizza maison - 
-Sole menière et riz maison - 
-Escalope milanaises - 
-Steck haché frittes - 
-Gwacamol - 
+## Spécialités:
 
-Tiramisu
-cookies
+- (BAO d’ouighour du Xinjiang )[https://www.instagram.com/p/CqVCCu3grZJ/]
+- Risoto brocolis - 
+- Lasagnes à la crème fraiche parmesant emmental - 
+- Pizza maison - 
+- Sole menière et riz maison - 
+- Escalope milanaises - 
+- Steck haché frittes - 
+- Gwacamol - 
+- Tiramisu
+- Cookies
 

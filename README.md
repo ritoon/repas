@@ -47,7 +47,7 @@
 
 ## Spécialités:
 
-- (BAO d’ouighour du Xinjiang )[https://www.instagram.com/p/CqVCCu3grZJ/]
+- [BAO d’ouighour du Xinjiang ](https://www.instagram.com/p/CqVCCu3grZJ/)
 - Risoto brocolis - 
 - Lasagnes à la crème fraiche parmesant emmental - 
 - Pizza maison - 

@@ -33,6 +33,18 @@
 - goûter
 - dîner
 
+
+### Jeudi
+
+- matin
+- goûter
+- dîner
+
+
+### Vendredi
+
+- matin
+
 ## Spécialités:
 
 - (BAO d’ouighour du Xinjiang )[https://www.instagram.com/p/CqVCCu3grZJ/]
@@ -45,4 +57,3 @@
 - Gwacamol - 
 - Tiramisu
 - Cookies
-
